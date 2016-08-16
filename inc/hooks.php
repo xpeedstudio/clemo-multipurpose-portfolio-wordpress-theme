@@ -100,10 +100,10 @@ function _action_clemo_register_required_plugins() {
             'source' => $plugin_dir . '/unyson.zip',
         ),
         array(
-            'name' => 'Enjoy Plugin for Instagram',
-            'slug' => 'enjoy-plugin-for-instagram/',
+            'name' => 'WD Instagram Feed',
+            'slug' => 'wd-instagram-feed',
             'required' => true,
-            'external_url' => 'https://wordpress.org/plugins/enjoy-plugin-for-instagram/',
+            'external_url' => 'https://wordpress.org/plugins/wd-instagram-feed/',
         ),
     );
 
